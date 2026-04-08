@@ -656,6 +656,7 @@ p {
     opacity: 0;
     transition-property: opacity, transform;
     transition: 150ms ease;
+    padding-top: 0;
 
 }
 
