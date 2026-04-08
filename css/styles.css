@@ -552,7 +552,9 @@ p {
     display: block;
     width: 264px;
 }
-
+.footer-subscribe{
+    margin-left: auto;
+}
 .footer-form-label {
     display: block;
     font-weight: 500;
@@ -581,6 +583,7 @@ p {
     color: #fff;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     transition: border-color 150ms ease-in;
+    font-size: 12px;
 }
 
 .footer-form-input::placeholder {
